@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Anji's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi I am Anjali and I am interested in anything Tech.
